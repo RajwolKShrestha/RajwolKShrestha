@@ -75,8 +75,6 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 
 # 🐍 Contribution Snake
 
-> **Make sure you've set up the GitHub Action that generates the snake.**
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/RajwolKShrestha/RajwolKShrestha/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
