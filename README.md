@@ -59,22 +59,16 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RajwolKShrestha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RajwolKShrestha&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajwolKShrestha&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RajwolKShrestha&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajwolKShrestha&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajwolKShrestha&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
