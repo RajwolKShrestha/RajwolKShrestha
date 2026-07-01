@@ -1,4 +1,4 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= PROFILE HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm Rajwol Kumar Shrestha</h1>
 
@@ -7,26 +7,35 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;UI%2FUX+Designer;Passionate+Problem+Solver;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;UI%2FUX+Designer;Passionate+Problem+Solver;Always+Learning+New+Technologies!" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajwolKShrestha&label=Profile+Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/RajwolKShrestha?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/RajwolKShrestha?style=for-the-badge" />
+<a href="https://github.com/RajwolKShrestha">
+<img src="https://komarev.com/ghpvc/?username=RajwolKShrestha&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<a href="https://github.com/RajwolKShrestha?tab=followers">
+<img src="https://img.shields.io/github/followers/RajwolKShrestha?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/RajwolKShrestha">
+<img src="https://img.shields.io/github/stars/RajwolKShrestha?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Computer Engineering student passionate about building software that solves real-world problems.
+🎓 Computer Engineering student passionate about building innovative software and intuitive user experiences.
 
-- 💻 Full Stack Web Development
-- 🎨 UI/UX Design with Figma
+- 💻 Full Stack Web Developer
+- 🎨 UI/UX Designer using Figma
 - 🤖 Interested in Artificial Intelligence
-- 🌱 Currently learning Backend Development & Cloud Technologies
-- 🚀 Love creating meaningful digital experiences
+- 🌱 Currently learning Cloud Computing & Backend Development
+- 🚀 Love building impactful digital products
+- 📚 Always exploring new technologies
 
 ---
 
@@ -34,42 +43,18 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🚍 **[Gantabya](https://github.com/RajwolKShrestha/Gantabya-Team-Lakshya)** | Smart public transportation platform focused on improving accessibility and user experience. | React • Firebase • Figma |
-| 🧩 **[Maze Solving Visualizer](https://github.com/RajwolKShrestha/Maze-Solving-Technique)** | Interactive visualization of maze generation and pathfinding algorithms with animated exploration. | *(Update with your tech stack)* |
-| 🎋 **[Bamboo Initiative](https://github.com/RajwolKShrestha/Bambooproductionwebsiteuiux)** | A digital platform promoting bamboo initiatives and sustainable development through an engaging user experience. | *(Update with your tech stack)* |
+| 🚍 **[Gantabya](https://github.com/RajwolKShrestha/Gantabya-Team-Lakshya)** | Smart public transportation platform focused on improving accessibility and user experience. | React • Firebase • JavaScript • Figma |
+| 🧩 **[Maze Solving Visualizer](https://github.com/RajwolKShrestha/Maze-Solving-Technique)** | Interactive visualization of maze generation and pathfinding algorithms. | Python • DFS • BFS • A* |
+| 🎋 **[Bamboo Initiative](https://github.com/RajwolKShrestha/Bambooproductionwebsiteuiux)** | UI/UX focused platform promoting sustainable bamboo initiatives. | React • Supabase • Figma |
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,mongodb,mysql,supabase,firebase,git,github,figma,vscode,flutter&perline=9"/>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode"/>
 </p>
 
 ---
@@ -78,9 +63,9 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RajwolKShrestha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RajwolKShrestha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RajwolKShrestha&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RajwolKShrestha&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,17 +81,17 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajwolKShrestha&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajwolKShrestha&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RajwolKShrestha&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://raw.githubusercontent.com/RajwolKShrestha/RajwolKShrestha/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </p>
 
@@ -115,20 +100,20 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 # 🌱 Currently Learning
 
 - 📱 Flutter Development
-- 🤖 Artificial Intelligence
 - ☁ Cloud Computing
-- 🔥 Backend System Design
+- 🤖 Artificial Intelligence
+- ⚙ Backend Architecture
+- 🔥 System Design
 
 ---
 
-# 🎯 Interests
+# 🏅 Highlights
 
-- Full Stack Development
-- UI/UX Design
-- Mobile Application Development
-- Artificial Intelligence
-- Open Source
-- Problem Solving
+- 🎓 Computer Engineering Student
+- 🚀 Full Stack Developer
+- 🎨 UI/UX Designer
+- 🌍 Passionate about Open Source
+- 💡 Love solving real-world problems through technology
 
 ---
 
@@ -152,17 +137,17 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 
 ---
 
-# 💭 Quote
+# 💭 Favorite Quote
 
 > *"The greatest glory in living lies not in never falling, but in rising every time we fall."*  
-> — **Nelson Mandela**
+> **— Nelson Mandela**
 
 ---
 
 <h3 align="center">
-⭐ Thank you for visiting my profile! ⭐
+Thanks for visiting my profile! 👋
 </h3>
 
 <p align="center">
-Feel free to explore my repositories, contribute to my projects, or connect with me.
+If you like my work, consider ⭐ starring a repository or connecting with me.
 </p>
