@@ -42,6 +42,7 @@ Computer Engineering Student • Full Stack Developer • UI/UX Designer
 | 🚍 **[Gantabya](https://github.com/RajwolKShrestha/Gantabya-Team-Lakshya)** | Smart public transportation platform focused on accessibility and better travel experience. | React • Firebase • JavaScript • Figma |
 | 🧩 **[Maze Solving Technique](https://github.com/RajwolKShrestha/Maze-Solving-Technique)** | Interactive visualization of maze generation and pathfinding algorithms. | Python • DFS • BFS • A* |
 | 🎋 **[Bamboo Initiative](https://github.com/RajwolKShrestha/Bambooproductionwebsiteuiux)** | UI/UX project promoting sustainable bamboo initiatives. | React • Supabase • Figma |
+| 💰 **[Product Price Estimation](https://github.com/RajwolKShrestha/Product-Price-Estimation)** | Machine learning project to estimate product prices based on features and datasets. | Python • Scikit-learn • Pandas • NumPy |
 
 ---
 
